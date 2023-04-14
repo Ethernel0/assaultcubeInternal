@@ -1,8 +1,0 @@
-# ninja log v5
-14	1916	7015177351328169	CMakeFiles/acInternal.dir/memc.cpp.obj	32d1321f5d6f5390
-0	1927	7015177351439678	CMakeFiles/acInternal.dir/maindll.cpp.obj	3303cf5e7f91ac90
-1927	2290	7015177351439678	acInternal.dll	be5adcc69c3e4a7f
-1927	2290	7015177351439678	acInternal.lib	be5adcc69c3e4a7f
-1	1139	7015178566082944	CMakeFiles/acInternal.dir/maindll.cpp.obj	3303cf5e7f91ac90
-1139	1300	7015178566082944	acInternal.dll	be5adcc69c3e4a7f
-1139	1300	7015178566082944	acInternal.lib	be5adcc69c3e4a7f
