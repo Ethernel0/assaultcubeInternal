@@ -1,3 +1,0 @@
-C:/Users/Igni/CLionProjects/C++/acInternal/cmake-build-debug/CMakeFiles/acInternal.dir
-C:/Users/Igni/CLionProjects/C++/acInternal/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Igni/CLionProjects/C++/acInternal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
